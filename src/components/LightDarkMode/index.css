@@ -1,0 +1,42 @@
+.main-container{
+    background-color: #ffffff;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-container{
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    width: 270px;
+   
+}
+
+.bg-light{
+    background-color:  #ffffff;
+}
+
+.bg-dark{
+    background-color: #000000;
+}
+
+.head{
+    color: #ffffff;
+    font-family: Roboto;
+    text-align: center;
+    font-size: 22px;
+}
+
+.button{
+    height: 35px;
+    border-radius: 5px;
+    font-family: Roboto;
+    text-align: center;
+    font-size: 12px;
+}
